@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caa9cb463365b62449b046a149829cec, type: 3}
+  m_Name: Glaze 1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1579531326687846966, guid: a453ed03b2e62b847af07a9909db181d, type: 3}
+  buyed: 0
+  cost: 0
+  prefab: {fileID: 5644074144788879396, guid: 9353b3a31820ea643a2cf76d46a0d0c1, type: 3}
+  yOffest: 0
